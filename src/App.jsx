@@ -129,7 +129,7 @@ function App() {
         </p>
 
         <img
-          className="w-[46%] mt-10 ml-[1190px] rounded-lg shadow-2xl shadow-slate-800"
+          className="w-[46%] mt-10 ml-[990px] rounded-lg shadow-2xl shadow-slate-800"
           src="https://img.freepik.com/premium-photo/red-hot-chili-pepper-with-drops-water-dark-background_1152200-69.jpg"
           alt=""
         />
